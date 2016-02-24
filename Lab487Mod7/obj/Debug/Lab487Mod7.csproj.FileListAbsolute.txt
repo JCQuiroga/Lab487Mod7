@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Lab487Mod7.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Lab487Mod7.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Lab487Mod7.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\obj\Debug\Lab487Mod7.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\obj\Debug\Lab487Mod7.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Lab487Mod7\Lab487Mod7\obj\Debug\Lab487Mod7.pdb
